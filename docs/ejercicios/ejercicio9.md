@@ -12,7 +12,7 @@ El presupuesto del club se reducirá respecto a la temporada pasada y se tendrá
 Aprovechando tus conocimientos adquiridos en la asignatura de Estructuras de Datos y Algoritmos 2, decides desarrollar un algoritmo que analice los datos de los jugadores. Este algoritmo debe procesar la información y proporcionarte el mejor once inicial (de mayor valoración), cumpliendo con las limitaciones de presupuesto y el cupo máximo de jugadores extranjeros permitidos.
 
 
-### Valoracion de un jugador
+### Valoración de un jugador
 
 Definimos la valoración de un jugador como el promedio de sus atributos (ritmo, tiro, pase, regate, defensa y físico). Al mismo tiempo, se considera la condición actual del jugador, de forma que su confianza y forma física también afectan a su valoración:
 
@@ -102,4 +102,5 @@ Siendo `R` el promedio de valoración del once inicial obtenido maximizando la v
 
 
 ## Notas
-No se pide llevar registro de los jugadores que componen el once inicial seleccionado, solamente se requiere la valoración promedio de sus integrantes.
+ - No se pide llevar registro de los jugadores que componen el once inicial seleccionado, solamente se requiere la valoración promedio de sus integrantes.
+ - La valoración de un jugador puede ser como mínimo 0 y como máximo 99.
