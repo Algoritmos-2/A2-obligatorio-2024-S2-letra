@@ -30,28 +30,31 @@ Buena -> incrementa en 5 puntos la valoración.
 
 ## Entrada
 
-Cantidad de Jugadores (J): representa cuántos jugadores hay en el plantel.
+La primer linea contiene un entero `J`, que representa cuántos jugadores hay en el plantel.
 
-Para cada jugador, se recibe la siguiente información:
+Las siguientes `J` líneas contienen los detalles de cada jugador: \
+`<Ritmo> <Tiro> <Pase> <Regate> <Defensa> <Físico> <Forma física> <Sueldo> <Extranjero> <Confianza>`
 
- - Ritmo (45-99)
- - Tiro (45-99)
- - Pase (45-99)
- - Regate (45-99)
- - Defensa (45-99)
- - Físico (45-99)
+ - 45 <= Ritmo <= 99
+ - 45 <= Tiro <= 99
+ - 45 <= Pase <= 99
+ - 45 <= Regate <= 99
+ - 45 <= Defensa <= 99
+ - 45 <= Físico <= 99
  - Forma Física (Lesionado, Mala, Normal, Buena)
- - Sueldo (10-10000)
+ - 10 <= Salario <= 10000
  - Extranjero (Si/No)
  - Confianza (Alta, Regular, Baja)
 
-
-#### Presupuesto Monetario del Club (P): 1 <= P <= 100000
-#### Cupo Máximo de Jugadores Extranjeros (E):  0 <= E <= 11
+La ultima linea se compone por un entero `P` separado por un espacio y seguido por un entero `E` : \
+`<P> <E>` \
+\
+`P` representa el presupuesto del club: 1 <= P <= 100000 \
+`E` representa el cupo máximo de jugadores extranjeros:  0 <= E <= 11
 
 ## Salida
-
-El promedio de valoración del once inicial obtenido maximizando la valoración sobre el presupuesto monetario y el cupo máximo de jugadores extranjeros.
+`R` \
+Siendo `R` el promedio de valoración del once inicial obtenido maximizando la valoración sobre el presupuesto monetario y el cupo máximo de jugadores extranjeros.
 
 
 ## Restricciones
@@ -99,5 +102,4 @@ El promedio de valoración del once inicial obtenido maximizando la valoración 
 
 
 ## Notas
-
-No se pide llevar registro de los jugadores del once inicial seleccionado por el algoritmo, solamente se requiere la valoración promedio de sus integrantes.
+No se pide llevar registro de los jugadores que componen el once inicial seleccionado, solamente se requiere la valoración promedio de sus integrantes.
