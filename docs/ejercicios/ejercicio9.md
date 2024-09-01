@@ -54,7 +54,6 @@ Para cada jugador, se recibe la siguiente información:
 El promedio de valoración del once inicial obtenido maximizando la valoración sobre el presupuesto monetario y el cupo máximo de jugadores extranjeros.
 
 
-
 ## Restricciones
 
  - Utilizar la técnica de tabulación y resolver con programación dinámica
@@ -97,3 +96,8 @@ El promedio de valoración del once inicial obtenido maximizando la valoración 
 <span style="color:green">50000</span>~ Presupuesto monetario del club \
 <span style="color:blue">2</span> ~ Cupo máximo de jugadores extranjeros
 
+
+
+## Notas
+
+No se pide llevar registro de los jugadores del once inicial seleccionado por el algoritmo, solamente se requiere la valoración promedio de sus integrantes.
