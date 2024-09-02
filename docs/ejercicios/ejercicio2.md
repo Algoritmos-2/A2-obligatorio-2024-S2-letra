@@ -20,5 +20,5 @@ El sistema para gestionar el inventario de libros de una biblioteca almacenará 
 - `1 <= ID del libro <= 10^8`
 - Cada título de libro tiene una longitud máxima de 100 caracteres (sin espacios).
 - La estructura de datos debe ser una tabla hash cerrada con resolución de colisiones mediante **doble hash**.
-- La complejidad esperada para las operaciones de inserción, búsqueda y actualización de estado es $O(1)_{cp}$ en promedio.
+- La complejidad esperada para las operaciones de inserción, búsqueda y actualización de estado es $O(1)_{cp}$.
 - La consulta (operación `COUNT`) debe realizarse en tiempo $O(1)_{pc}$.
