@@ -1,4 +1,4 @@
-# Ejercicio 5 - [nombre del ejercicio]
+# Ejercicio 5 - Vendiendo caramelos
 
 ## Descripción
 
