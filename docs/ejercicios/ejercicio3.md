@@ -18,7 +18,7 @@ Debe mostrar los `K` objetos más baratos en orden de precio ascendente. Cada `i
 
 - 1 <= N <= 10^5
 - 1 <= K <= 100
-- 1 <= id <= 10^5
+- 1 <= id <= N
 - $O(N\ logN)_{pc}$
 
 ## Ejemplo
