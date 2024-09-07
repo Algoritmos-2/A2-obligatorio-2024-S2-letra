@@ -1,4 +1,4 @@
-# Ejercicio 4 - Vendiendo caramelos
+# Ejercicio 4 - Comida rápida
 
 ## Descripción
 
