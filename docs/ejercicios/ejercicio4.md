@@ -66,5 +66,3 @@ E 3
 
 2 true ORTastySignature_PapasChicas
 4 false BigORT
-
-### Explicación
