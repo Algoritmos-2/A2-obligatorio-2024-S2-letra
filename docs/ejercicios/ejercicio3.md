@@ -10,6 +10,8 @@ Dada una lista de objetos con sus precios y sus identificadores, usted debe sele
 
 La entrada comienza con un entero `N` que indica la cantidad de objetos en la tienda. Luego siguen `N` lineas, cada una con un entero `id` y un entero `precio` separados por un espacio. `id` es el identificador del objeto y `precio` es el precio del objeto. Luego sigue un entero `K` que indica la cantidad de objetos que usted debe seleccionar.
 
+En caso de que haya mas de un objeto con el mismo precio, se debe seleccionar el objeto con el `id` más grande.
+
 ## Salida
 
 Debe mostrar los `K` objetos más baratos en orden de precio ascendente. Cada `id` debe ser mostrado en una linea distinta.
