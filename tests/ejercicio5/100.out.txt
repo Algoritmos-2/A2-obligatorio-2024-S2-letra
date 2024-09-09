@@ -1,0 +1,103 @@
+Ciudad inicial: Brasilia
+Brasilia -> Ciudad_de_Mexico -> Vancouver -> Mision: Recuperar_llave - Vancouver - Tiempo de viaje: 30
+Vancouver -> Ciudad_de_Mexico -> Lisboa -> Amsterdam -> Abu_Dhabi -> Rivera -> Salto -> Mision: Recuperar_acceso_sistema_critico - Salto - Tiempo de viaje: 97
+Salto -> Rivera -> Abu_Dhabi -> Colonia -> Mision: Sabotear_instalacion - Colonia - Tiempo de viaje: 107
+Colonia -> Abu_Dhabi -> Amsterdam -> Lisboa -> Ciudad_de_Mexico -> Vancouver -> Mision: Saboteo_interno - Vancouver - Tiempo de viaje: 78
+Vancouver -> Ciudad_de_Mexico -> Lisboa -> Amsterdam -> Abu_Dhabi -> Hong_Kong -> Los_Angeles -> Mision: Interceptar_comunicaciones - Los_Angeles - Tiempo de viaje: 52
+Los_Angeles -> Hong_Kong -> Abu_Dhabi -> Mision: Proteger_testigo_vip - Abu_Dhabi - Tiempo de viaje: 18
+Abu_Dhabi -> Hong_Kong -> Singapur -> Seul -> Mision: Anular_defensas_enemigas - Seul - Tiempo de viaje: 47
+Seul -> Helsinki -> Copenhague -> Mision: Detener_fuga_de_informacion - Copenhague - Tiempo de viaje: 34
+Copenhague -> Estocolmo -> Singapur -> Hong_Kong -> Abu_Dhabi -> Colonia -> Mision: Anular_defensas_enemigas - Colonia - Tiempo de viaje: 81
+Colonia -> Berlin -> Nueva_York -> Montevideo -> Mision: Infiltrarse_red_financiera - Montevideo - Tiempo de viaje: 97
+Montevideo -> Durazno -> Mision: Transportar_material_clasificado - Durazno - Tiempo de viaje: 45
+Durazno -> Montevideo -> Nueva_York -> Amsterdam -> Lisboa -> Bruselas -> Mision: Sabotear_instalacion - Bruselas - Tiempo de viaje: 123
+Bruselas -> Johannesburgo -> Ciudad_del_Cabo -> Mision: Encriptar_datos_confidenciales - Ciudad_del_Cabo - Tiempo de viaje: 24
+Ciudad_del_Cabo -> Sidney -> Madrid -> Mision: Infiltrarse_red_financiera - Madrid - Tiempo de viaje: 23
+Madrid -> Sidney -> Ciudad_del_Cabo -> Hong_Kong -> Abu_Dhabi -> Mision: Neutralizar_amenaza - Abu_Dhabi - Tiempo de viaje: 34
+Abu_Dhabi -> Amsterdam -> Lisboa -> Ciudad_de_Mexico -> El_Cairo -> Mision: Proteger_testigo_vip - El_Cairo - Tiempo de viaje: 31
+El_Cairo -> Johannesburgo -> Ciudad_del_Cabo -> Hong_Kong -> Singapur -> Estocolmo -> Mision: Detener_ataque_cibernetico - Estocolmo - Tiempo de viaje: 43
+Estocolmo -> Singapur -> Hong_Kong -> Ciudad_del_Cabo -> Maldonado -> San_Pablo -> Mision: Desmantelar_red_cibernetica - San_Pablo - Tiempo de viaje: 46
+San_Pablo -> Seul -> Helsinki -> Copenhague -> Caracas -> Paris -> Mision: Recuperar_dispositivo - Paris - Tiempo de viaje: 56
+Paris -> Londres -> Canelones -> Mision: Interceptar_mensaje_enemigo - Canelones - Tiempo de viaje: 16
+Canelones -> Rivera -> Mision: Liberar_rehenes - Rivera - Tiempo de viaje: 31
+Rivera -> Abu_Dhabi -> Colonia -> Berlin -> Mision: Saboteo_interno - Berlin - Tiempo de viaje: 98
+Berlin -> Nueva_York -> Mision: Descifrar_codigos - Nueva_York - Tiempo de viaje: 65
+Nueva_York -> Amsterdam -> Lisboa -> Bruselas -> Mision: Proteger_el_centro_neural - Bruselas - Tiempo de viaje: 59
+Bruselas -> Johannesburgo -> Ciudad_del_Cabo -> Mision: Recuperar_datos_sensibles - Ciudad_del_Cabo - Tiempo de viaje: 24
+Ciudad_del_Cabo -> Hong_Kong -> Abu_Dhabi -> Rivera -> Mision: Descubrir_identidad_de_infiltrados - Rivera - Tiempo de viaje: 52
+Rivera -> Canelones -> Barcelona -> Mision: Establecer_punto_seguro - Barcelona - Tiempo de viaje: 78
+Barcelona -> Montevideo -> Nueva_York -> Amsterdam -> Abu_Dhabi -> Hong_Kong -> Los_Angeles -> Mision: Interceptar_mensaje_enemigo - Los_Angeles - Tiempo de viaje: 81
+Los_Angeles -> Hong_Kong -> Beijing -> Londres -> Buenos_Aires -> Mision: Infiltrar_servidor_secreto - Buenos_Aires - Tiempo de viaje: 105
+Buenos_Aires -> Londres -> Beijing -> Hong_Kong -> Ciudad_del_Cabo -> Mision: Anular_defensas_enemigas - Ciudad_del_Cabo - Tiempo de viaje: 98
+Ciudad_del_Cabo -> Sidney -> Punta_del_Este -> Mision: Acceder_red_inteligencia - Punta_del_Este - Tiempo de viaje: 27
+Punta_del_Este -> Sidney -> Ciudad_del_Cabo -> Hong_Kong -> Abu_Dhabi -> Amsterdam -> Lisboa -> Ciudad_de_Mexico -> Mision: Proteger_sede_FMI - Ciudad_de_Mexico - Tiempo de viaje: 56
+Ciudad_de_Mexico -> El_Cairo -> Johannesburgo -> Roma -> Bangkok -> Mision: Acceder_a_sistemas_seguridad - Bangkok - Tiempo de viaje: 34
+Bangkok -> Bruselas -> Berlin -> Mision: Anular_defensas_enemigas - Berlin - Tiempo de viaje: 68
+Berlin -> Colonia -> Toronto -> Melbourne -> Lima -> Mision: Eliminar_agente_hostil - Lima - Tiempo de viaje: 58
+Lima -> Melbourne -> Toronto -> Colonia -> Mision: Recuperar_acceso_sistema_critico - Colonia - Tiempo de viaje: 45
+Colonia -> Abu_Dhabi -> Hong_Kong -> Mision: Anular_defensas_enemigas - Hong_Kong - Tiempo de viaje: 51
+Hong_Kong -> Singapur -> Dubai -> Atenas -> Mision: Desactivar_bomba - Atenas - Tiempo de viaje: 89
+Atenas -> Durazno -> Mision: Proteger_sede_FMI - Durazno - Tiempo de viaje: 38
+Durazno -> Punta_del_Este -> Sidney -> Ciudad_del_Cabo -> Mision: Descifrar_codigos - Ciudad_del_Cabo - Tiempo de viaje: 112
+Ciudad_del_Cabo -> Hong_Kong -> Abu_Dhabi -> Amsterdam -> Nueva_York -> Montevideo -> Barcelona -> Mision: Desactivar_bomba - Barcelona - Tiempo de viaje: 74
+Barcelona -> Brasilia -> Ciudad_de_Mexico -> Bogota -> Mision: Infiltrarse_grupo_criminal - Bogota - Tiempo de viaje: 100
+Bogota -> Quito -> Maldonado -> Ciudad_del_Cabo -> Hong_Kong -> Melbourne -> Toronto -> Mision: Establecer_contacto_confidencial - Toronto - Tiempo de viaje: 84
+Toronto -> Melbourne -> Hong_Kong -> Ciudad_del_Cabo -> Mision: Recuperar_dispositivo - Ciudad_del_Cabo - Tiempo de viaje: 50
+Ciudad_del_Cabo -> Sidney -> Punta_del_Este -> Mision: Localizar_articulo_roto - Punta_del_Este - Tiempo de viaje: 27
+Punta_del_Este -> Londres -> Canelones -> Barcelona -> Mision: Infiltrarse_grupo_criminal - Barcelona - Tiempo de viaje: 79
+Barcelona -> Montevideo -> Durazno -> Mision: Transportar_material_clasificado - Durazno - Tiempo de viaje: 51
+Durazno -> Paysandu -> Helsinki -> Seul -> Mision: Transportar_material_clasificado - Seul - Tiempo de viaje: 116
+Seul -> San_Pablo -> Maldonado -> Ciudad_del_Cabo -> Johannesburgo -> Roma -> Bangkok -> Mision: Rastrear_satelite_pirata - Bangkok - Tiempo de viaje: 58
+Bangkok -> Roma -> Johannesburgo -> El_Cairo -> Atenas -> Durazno -> Mision: Infiltrarse_en_el_consejo - Durazno - Tiempo de viaje: 122
+Durazno -> Paysandu -> Londres -> Paris -> Caracas -> Copenhague -> Mision: Descubrir_identidad_de_infiltrados - Copenhague - Tiempo de viaje: 102
+Copenhague -> Caracas -> Mision: Proteger_emisarios - Caracas - Tiempo de viaje: 8
+Caracas -> Paris -> Londres -> Beijing -> Hong_Kong -> Ciudad_del_Cabo -> Johannesburgo -> Mision: Recuperar_datos_sensibles - Johannesburgo - Tiempo de viaje: 47
+Johannesburgo -> Ciudad_del_Cabo -> Hong_Kong -> Beijing -> Londres -> Mision: Transportar_material_clasificado - Londres - Tiempo de viaje: 40
+Londres -> Buenos_Aires -> Mision: Recuperar_llave - Buenos_Aires - Tiempo de viaje: 71
+Buenos_Aires -> Moscu -> Bruselas -> Bangkok -> Mision: Asegurar_la_cuarta_llave - Bangkok - Tiempo de viaje: 114
+Bangkok -> Roma -> Johannesburgo -> Ciudad_del_Cabo -> Hong_Kong -> Melbourne -> Toronto -> Mision: Asegurar_la_cuarta_llave - Toronto - Tiempo de viaje: 71
+Toronto -> Melbourne -> Lima -> Mision: Recuperar_llave - Lima - Tiempo de viaje: 16
+Lima -> Melbourne -> Hong_Kong -> Beijing -> Mision: Recuperar_dispositivo - Beijing - Tiempo de viaje: 43
+Beijing -> Mision: Cortar_comunicaciones_enemigas - Beijing - Tiempo de viaje: 0
+Beijing -> Hong_Kong -> Singapur -> Dubai -> Atenas -> Mision: Recuperar_llave - Atenas - Tiempo de viaje: 98
+Atenas -> El_Cairo -> Ciudad_de_Mexico -> Lisboa -> Mision: Descifrar_codigos - Lisboa - Tiempo de viaje: 87
+Lisboa -> Amsterdam -> Abu_Dhabi -> Hong_Kong -> Ciudad_del_Cabo -> Maldonado -> Mision: Cortar_comunicaciones_enemigas - Maldonado - Tiempo de viaje: 30
+Maldonado -> Ciudad_del_Cabo -> Johannesburgo -> El_Cairo -> Mision: Infiltrarse_base_enemiga - El_Cairo - Tiempo de viaje: 38
+El_Cairo -> Johannesburgo -> Ciudad_del_Cabo -> Maldonado -> San_Pablo -> Seul -> Mision: Acceder_red_inteligencia - Seul - Tiempo de viaje: 63
+Seul -> Barcelona -> Mision: Desactivar_servidor - Barcelona - Tiempo de viaje: 95
+Barcelona -> Montevideo -> Nueva_York -> Amsterdam -> Abu_Dhabi -> Moscu -> Mision: Recuperar_llave - Moscu - Tiempo de viaje: 81
+Moscu -> Abu_Dhabi -> Hong_Kong -> Beijing -> Londres -> Paris -> Mision: Proteger_informante - Paris - Tiempo de viaje: 49
+Paris -> Londres -> Beijing -> Hong_Kong -> Ciudad_del_Cabo -> Maldonado -> Quito -> Mision: Extraer_codigo_fuente - Quito - Tiempo de viaje: 55
+Quito -> Maldonado -> Ciudad_del_Cabo -> Hong_Kong -> Beijing -> Londres -> Mision: Desmantelar_red_cibernetica - Londres - Tiempo de viaje: 54
+Londres -> Beijing -> Bangkok -> Mision: Obtener_informacion_confidencial - Bangkok - Tiempo de viaje: 48
+Bangkok -> Roma -> Johannesburgo -> Ciudad_del_Cabo -> Hong_Kong -> Abu_Dhabi -> Colonia -> Mision: Neutralizar_amenaza - Colonia - Tiempo de viaje: 76
+Colonia -> Abu_Dhabi -> Amsterdam -> Lisboa -> Ciudad_de_Mexico -> Vancouver -> Mision: Proteger_testigo_vip - Vancouver - Tiempo de viaje: 78
+Vancouver -> Mision: Desmantelar_red_cibernetica - Vancouver - Tiempo de viaje: 0
+Vancouver -> Ciudad_de_Mexico -> Lisboa -> Amsterdam -> Abu_Dhabi -> Rivera -> Mision: Neutralizar_vehiculo - Rivera - Tiempo de viaje: 75
+Rivera -> Abu_Dhabi -> Amsterdam -> Lisboa -> Mision: Recuperar_datos_sensibles - Lisboa - Tiempo de viaje: 48
+Lisboa -> Amsterdam -> Abu_Dhabi -> Hong_Kong -> Beijing -> Londres -> Paris -> Mision: Proteger_informante - Paris - Tiempo de viaje: 38
+Paris -> Caracas -> Copenhague -> Helsinki -> Seul -> Mision: Infiltrarse_base_enemiga - Seul - Tiempo de viaje: 48
+Seul -> Singapur -> Hong_Kong -> Abu_Dhabi -> Amsterdam -> Mision: Asegurar_artefacto - Amsterdam - Tiempo de viaje: 51
+Amsterdam -> Lisboa -> Ciudad_de_Mexico -> Brasilia -> Mision: Recolectar_evidencias - Brasilia - Tiempo de viaje: 28
+Brasilia -> Ciudad_de_Mexico -> Lisboa -> Amsterdam -> San_Pablo -> Mision: Interceptar_mensaje_enemigo - San_Pablo - Tiempo de viaje: 72
+San_Pablo -> Seul -> Helsinki -> Copenhague -> Mision: Detener_fuga_de_informacion - Copenhague - Tiempo de viaje: 42
+Copenhague -> Estocolmo -> Singapur -> Hong_Kong -> Abu_Dhabi -> Amsterdam -> Lisboa -> Ciudad_de_Mexico -> Mision: Infiltrarse_base_enemiga - Ciudad_de_Mexico - Tiempo de viaje: 55
+Ciudad_de_Mexico -> Lisboa -> Amsterdam -> Abu_Dhabi -> Hong_Kong -> Singapur -> Seul -> Mision: Recuperar_llave - Seul - Tiempo de viaje: 65
+Seul -> Helsinki -> Atenas -> Mision: Liberar_rehenes - Atenas - Tiempo de viaje: 85
+Atenas -> Dubai -> Lima -> Melbourne -> Rivera -> Salto -> Mision: Desactivar_servidor - Salto - Tiempo de viaje: 153
+Salto -> Rivera -> Mision: Obtener_informacion_confidencial - Rivera - Tiempo de viaje: 22
+Rivera -> Canelones -> Londres -> Paris -> Caracas -> Mision: Eliminar_terrorista - Caracas - Tiempo de viaje: 53
+Caracas -> Paris -> Londres -> Beijing -> Hong_Kong -> Ciudad_del_Cabo -> Johannesburgo -> Mision: Recuperar_dispositivo - Johannesburgo - Tiempo de viaje: 47
+Johannesburgo -> Roma -> Mision: Recolectar_evidencias - Roma - Tiempo de viaje: 5
+Roma -> Johannesburgo -> El_Cairo -> Ciudad_de_Mexico -> Vancouver -> Mision: Recolectar_evidencias - Vancouver - Tiempo de viaje: 47
+Vancouver -> Ciudad_de_Mexico -> Lisboa -> Amsterdam -> Abu_Dhabi -> Hong_Kong -> Melbourne -> Mision: Desactivar_bomba - Melbourne - Tiempo de viaje: 73
+Melbourne -> Hong_Kong -> Abu_Dhabi -> Amsterdam -> Lisboa -> Mision: Detener_ataque_cibernetico - Lisboa - Tiempo de viaje: 46
+Lisboa -> Amsterdam -> Abu_Dhabi -> Hong_Kong -> Los_Angeles -> Mision: Eliminar_terrorista - Los_Angeles - Tiempo de viaje: 25
+Los_Angeles -> Hong_Kong -> Singapur -> Mision: Anular_defensas_enemigas - Singapur - Tiempo de viaje: 14
+Singapur -> Hong_Kong -> Beijing -> Londres -> Paysandu -> Mision: Recuperar_llave - Paysandu - Tiempo de viaje: 62
+Paysandu -> Londres -> Canelones -> Mision: Descifrar_codigos - Canelones - Tiempo de viaje: 51
+Canelones -> Londres -> Beijing -> Hong_Kong -> Abu_Dhabi -> Amsterdam -> Lisboa -> Mision: Infiltrarse_en_el_consejo - Lisboa - Tiempo de viaje: 52
+Lisboa -> Amsterdam -> Abu_Dhabi -> Hong_Kong -> Ciudad_del_Cabo -> Johannesburgo -> Santiago_de_Chile -> Mision: Infiltrarse_red_financiera - Santiago_de_Chile - Tiempo de viaje: 57
+Santiago_de_Chile -> Dubai -> Lima -> Mision: Destruir_la_Entidad - Lima - Tiempo de viaje: 53
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 5843

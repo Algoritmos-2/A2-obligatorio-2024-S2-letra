@@ -1,0 +1,23 @@
+Ciudad inicial: Beijing
+Beijing -> Madrid -> Sidney -> Lima -> Mision: Establecer_punto_seguro - Lima - Tiempo de viaje: 39
+Lima -> Sidney -> El_Cairo -> Atenas -> Mision: Infiltrarse_en_el_consejo - Atenas - Tiempo de viaje: 40
+Atenas -> Varsovia -> Mision: Interceptar_transmision_secreta - Varsovia - Tiempo de viaje: 4
+Varsovia -> Atenas -> Madrid -> Johannesburgo -> Los_Angeles -> Paris -> Barcelona -> Mision: Acceder_a_sistemas_seguridad - Barcelona - Tiempo de viaje: 50
+Barcelona -> Paris -> Los_Angeles -> Mision: Infiltrar_servidor_secreto - Los_Angeles - Tiempo de viaje: 18
+Los_Angeles -> Johannesburgo -> Madrid -> Abu_Dhabi -> Hong_Kong -> San_Pablo -> Mision: Recuperar_datos_sensibles - San_Pablo - Tiempo de viaje: 53
+San_Pablo -> Hong_Kong -> Abu_Dhabi -> Madrid -> Johannesburgo -> Los_Angeles -> Punta_del_Este -> Brasilia -> Mision: Infiltrarse_grupo_criminal - Brasilia - Tiempo de viaje: 63
+Brasilia -> Punta_del_Este -> Los_Angeles -> Johannesburgo -> Mision: Proteger_informante - Johannesburgo - Tiempo de viaje: 15
+Johannesburgo -> Los_Angeles -> Rivera -> Santiago_de_Chile -> Mision: Acceder_red_inteligencia - Santiago_de_Chile - Tiempo de viaje: 30
+Santiago_de_Chile -> Rivera -> Los_Angeles -> Johannesburgo -> Madrid -> Sidney -> Melbourne -> Singapur -> Mision: Desactivar_bomba - Singapur - Tiempo de viaje: 78
+Singapur -> Melbourne -> Sidney -> Quito -> Paris -> Mision: Neutralizar_vehiculo - Paris - Tiempo de viaje: 58
+Paris -> Los_Angeles -> Rivera -> Salto -> Mision: Descubrir_identidad_de_infiltrados - Salto - Tiempo de viaje: 45
+Salto -> Rivera -> Los_Angeles -> Punta_del_Este -> Brasilia -> Beijing -> Mision: Infiltrarse_base_enemiga - Beijing - Tiempo de viaje: 57
+Beijing -> Brasilia -> Mision: Obtener_informacion_confidencial - Brasilia - Tiempo de viaje: 15
+Brasilia -> Punta_del_Este -> Los_Angeles -> Johannesburgo -> Madrid -> Sidney -> Mision: Acceder_a_sistemas_seguridad - Sidney - Tiempo de viaje: 27
+Sidney -> El_Cairo -> Atenas -> Mision: Desactivar_servidor - Atenas - Tiempo de viaje: 29
+Atenas -> Madrid -> Johannesburgo -> Los_Angeles -> Paris -> Lisboa -> Mision: Interceptar_transmision_secreta - Lisboa - Tiempo de viaje: 55
+Lisboa -> Paris -> Los_Angeles -> Rivera -> Santiago_de_Chile -> Ciudad_del_Cabo -> Helsinki -> Mision: Proteger_informante - Helsinki - Tiempo de viaje: 78
+Helsinki -> Ciudad_del_Cabo -> Santiago_de_Chile -> Rivera -> Los_Angeles -> Punta_del_Este -> Mision: Acceder_a_sistemas_seguridad - Punta_del_Este - Tiempo de viaje: 52
+Punta_del_Este -> Los_Angeles -> Johannesburgo -> Madrid -> Sidney -> Melbourne -> Singapur -> Mision: Destruir_la_Entidad - Singapur - Tiempo de viaje: 54
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 860

@@ -1,0 +1,33 @@
+Ciudad inicial: San_Pablo
+San_Pablo -> Melbourne -> El_Cairo -> Brasilia -> Ciudad_del_Cabo -> Mision: Interceptar_comunicaciones - Ciudad_del_Cabo - Tiempo de viaje: 57
+Ciudad_del_Cabo -> Mision: Descifrar_codigos - Ciudad_del_Cabo - Tiempo de viaje: 0
+Ciudad_del_Cabo -> Bruselas -> Londres -> Mision: Localizar_articulo_roto - Londres - Tiempo de viaje: 63
+Londres -> Bruselas -> Caracas -> Brasilia -> El_Cairo -> Mision: Interceptar_mensaje_enemigo - El_Cairo - Tiempo de viaje: 68
+El_Cairo -> Atenas -> Mision: Detener_fuga_de_informacion - Atenas - Tiempo de viaje: 24
+Atenas -> El_Cairo -> Brasilia -> Beijing -> Montevideo -> Mision: Infiltrar_servidor_secreto - Montevideo - Tiempo de viaje: 68
+Montevideo -> Beijing -> Punta_del_Este -> Mision: Proteger_testigo_vip - Punta_del_Este - Tiempo de viaje: 76
+Punta_del_Este -> Mision: Descubrir_identidad_de_infiltrados - Punta_del_Este - Tiempo de viaje: 0
+Punta_del_Este -> Salto -> Amsterdam -> Berlin -> Madrid -> Mision: Infiltrarse_base_enemiga - Madrid - Tiempo de viaje: 93
+Madrid -> Berlin -> Amsterdam -> Bruselas -> Caracas -> Mision: Desactivar_servidor - Caracas - Tiempo de viaje: 63
+Caracas -> Varsovia -> Quito -> Mision: Obtener_informacion_confidencial - Quito - Tiempo de viaje: 87
+Quito -> Bangkok -> Estocolmo -> Atenas -> El_Cairo -> Melbourne -> Mision: Encriptar_datos_confidenciales - Melbourne - Tiempo de viaje: 116
+Melbourne -> El_Cairo -> Brasilia -> Ciudad_del_Cabo -> Colonia -> Paysandu -> Mision: Descifrar_codigos - Paysandu - Tiempo de viaje: 86
+Paysandu -> Colonia -> Canelones -> Tokio -> Mision: Encriptar_datos_confidenciales - Tokio - Tiempo de viaje: 128
+Tokio -> Roma -> San_Pablo -> Melbourne -> El_Cairo -> Brasilia -> Caracas -> Mision: Acceder_a_sistemas_seguridad - Caracas - Tiempo de viaje: 106
+Caracas -> Brasilia -> Ciudad_del_Cabo -> Colonia -> Durazno -> Mision: Proteger_sede_FMI - Durazno - Tiempo de viaje: 91
+Durazno -> Vancouver -> Lima -> Bogota -> Maldonado -> Mision: Descubrir_identidad_de_infiltrados - Maldonado - Tiempo de viaje: 124
+Maldonado -> Amsterdam -> Santiago_de_Chile -> Mision: Proteger_sede_FMI - Santiago_de_Chile - Tiempo de viaje: 86
+Santiago_de_Chile -> Vancouver -> Lisboa -> Bruselas -> Londres -> Mision: Desactivar_bomba - Londres - Tiempo de viaje: 118
+Londres -> Bruselas -> Lisboa -> Vancouver -> Lima -> Mision: Cortar_comunicaciones_enemigas - Lima - Tiempo de viaje: 55
+Lima -> Vancouver -> Ciudad_de_Mexico -> Mision: Saboteo_interno - Ciudad_de_Mexico - Tiempo de viaje: 15
+Ciudad_de_Mexico -> Vancouver -> Durazno -> Mision: Eliminar_terrorista - Durazno - Tiempo de viaje: 89
+Durazno -> Montevideo -> Los_Angeles -> Mision: Recuperar_dispositivo - Los_Angeles - Tiempo de viaje: 110
+Los_Angeles -> Hong_Kong -> Mision: Proteger_emisarios - Hong_Kong - Tiempo de viaje: 60
+Hong_Kong -> Bruselas -> Amsterdam -> Maldonado -> Mision: Acceder_red_inteligencia - Maldonado - Tiempo de viaje: 65
+Maldonado -> Amsterdam -> Bruselas -> Caracas -> Mision: Rastrear_satelite_pirata - Caracas - Tiempo de viaje: 64
+Caracas -> Brasilia -> El_Cairo -> Melbourne -> Toronto -> Mision: Infiltrarse_red_financiera - Toronto - Tiempo de viaje: 38
+Toronto -> Melbourne -> San_Pablo -> Singapur -> Bogota -> Buenos_Aires -> Mision: Establecer_contacto_confidencial - Buenos_Aires - Tiempo de viaje: 78
+Buenos_Aires -> Madrid -> Barcelona -> Montevideo -> Mision: Infiltrarse_base_enemiga - Montevideo - Tiempo de viaje: 35
+Montevideo -> Barcelona -> Mision: Destruir_la_Entidad - Barcelona - Tiempo de viaje: 18
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 2081

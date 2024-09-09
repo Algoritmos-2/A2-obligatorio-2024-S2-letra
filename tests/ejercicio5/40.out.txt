@@ -1,0 +1,43 @@
+Ciudad inicial: Bruselas
+Bruselas -> Bogota -> Paysandu -> Atenas -> Rivera -> Quito -> Mision: Encriptar_datos_confidenciales - Quito - Tiempo de viaje: 70
+Quito -> Rivera -> Atenas -> Paysandu -> Abu_Dhabi -> Moscu -> Barcelona -> Mision: Proteger_sede_FMI - Barcelona - Tiempo de viaje: 53
+Barcelona -> Moscu -> Abu_Dhabi -> Paysandu -> Mision: Asegurar_la_cuarta_llave - Paysandu - Tiempo de viaje: 34
+Paysandu -> Maldonado -> San_Pablo -> Singapur -> Mision: Recuperar_datos_sensibles - Singapur - Tiempo de viaje: 32
+Singapur -> San_Pablo -> Buenos_Aires -> Toronto -> Melbourne -> Dubai -> Mision: Neutralizar_amenaza - Dubai - Tiempo de viaje: 38
+Dubai -> Beijing -> Mision: Liberar_rehenes - Beijing - Tiempo de viaje: 45
+Beijing -> Seul -> Moscu -> Mision: Infiltrarse_grupo_criminal - Moscu - Tiempo de viaje: 24
+Moscu -> Barcelona -> Copenhague -> Mision: Impedir_sabotaje_inminente - Copenhague - Tiempo de viaje: 49
+Copenhague -> Helsinki -> Mision: Detener_fuga_de_informacion - Helsinki - Tiempo de viaje: 43
+Helsinki -> Londres -> Lisboa -> Mision: Desactivar_servidor - Lisboa - Tiempo de viaje: 51
+Lisboa -> Bruselas -> Barcelona -> Moscu -> Abu_Dhabi -> Mision: Obtener_coordenadas_clave - Abu_Dhabi - Tiempo de viaje: 51
+Abu_Dhabi -> Moscu -> Seul -> Mision: Interceptar_comunicaciones - Seul - Tiempo de viaje: 13
+Seul -> Estocolmo -> Ciudad_de_Mexico -> Mision: Cortar_comunicaciones_enemigas - Ciudad_de_Mexico - Tiempo de viaje: 50
+Ciudad_de_Mexico -> Bogota -> Mision: Detener_fuga_de_informacion - Bogota - Tiempo de viaje: 38
+Bogota -> Paysandu -> Maldonado -> San_Pablo -> Mision: Eliminar_trazabilidad_de_mision - San_Pablo - Tiempo de viaje: 60
+San_Pablo -> Mision: Acceder_a_sistemas_seguridad - San_Pablo - Tiempo de viaje: 0
+San_Pablo -> Mision: Asegurar_la_cuarta_llave - San_Pablo - Tiempo de viaje: 0
+San_Pablo -> Seul -> Estocolmo -> Ciudad_de_Mexico -> Mision: Proteger_testigo_vip - Ciudad_de_Mexico - Tiempo de viaje: 67
+Ciudad_de_Mexico -> Estocolmo -> Seul -> San_Pablo -> Roma -> Mision: Infiltrar_servidor_secreto - Roma - Tiempo de viaje: 88
+Roma -> Quito -> Mision: Infiltrar_servidor_secreto - Quito - Tiempo de viaje: 38
+Quito -> Rivera -> Atenas -> Paysandu -> Bogota -> Bruselas -> Mision: Infiltrar_servidor_secreto - Bruselas - Tiempo de viaje: 70
+Bruselas -> Barcelona -> Moscu -> Seul -> Estocolmo -> Mision: Liberar_rehenes - Estocolmo - Tiempo de viaje: 69
+Estocolmo -> Paysandu -> Mision: Infiltrarse_base_enemiga - Paysandu - Tiempo de viaje: 61
+Paysandu -> Maldonado -> Mision: Impedir_sabotaje_inminente - Maldonado - Tiempo de viaje: 17
+Maldonado -> Paysandu -> Bogota -> Nueva_York -> Mision: Proteger_sede_FMI - Nueva_York - Tiempo de viaje: 63
+Nueva_York -> Santiago_de_Chile -> Mision: Infiltrar_servidor_secreto - Santiago_de_Chile - Tiempo de viaje: 48
+Santiago_de_Chile -> Vancouver -> Dubai -> Mision: Proteger_emisarios - Dubai - Tiempo de viaje: 71
+Dubai -> Vancouver -> Amsterdam -> Mision: Proteger_informante - Amsterdam - Tiempo de viaje: 33
+Amsterdam -> Vancouver -> Toronto -> Buenos_Aires -> Tokio -> Moscu -> Seul -> Mision: Recuperar_acceso_sistema_critico - Seul - Tiempo de viaje: 56
+Seul -> Moscu -> Tokio -> Buenos_Aires -> Mision: Proteger_emisarios - Buenos_Aires - Tiempo de viaje: 23
+Buenos_Aires -> Toronto -> Vancouver -> Sidney -> Mision: Recuperar_datos_sensibles - Sidney - Tiempo de viaje: 57
+Sidney -> Vancouver -> Toronto -> Melbourne -> Paris -> Lima -> Mision: Establecer_contacto_confidencial - Lima - Tiempo de viaje: 110
+Lima -> Paris -> Maldonado -> Montevideo -> Mision: Eliminar_trazabilidad_de_mision - Montevideo - Tiempo de viaje: 95
+Montevideo -> Maldonado -> Abu_Dhabi -> Hong_Kong -> Madrid -> Durazno -> Caracas -> Mision: Detener_fuga_de_informacion - Caracas - Tiempo de viaje: 100
+Caracas -> Durazno -> Madrid -> Barcelona -> Copenhague -> Bangkok -> Mision: Neutralizar_amenaza - Bangkok - Tiempo de viaje: 110
+Bangkok -> Salto -> Rivera -> Atenas -> Mision: Establecer_contacto_confidencial - Atenas - Tiempo de viaje: 48
+Atenas -> Rivera -> Quito -> Mision: Liberar_rehenes - Quito - Tiempo de viaje: 17
+Quito -> Rivera -> Salto -> Punta_del_Este -> Toronto -> Vancouver -> Amsterdam -> Mision: Recolectar_evidencias - Amsterdam - Tiempo de viaje: 79
+Amsterdam -> Vancouver -> Toronto -> Punta_del_Este -> Salto -> Mision: Interceptar_mensaje_enemigo - Salto - Tiempo de viaje: 66
+Salto -> Rivera -> Atenas -> Paysandu -> Abu_Dhabi -> Hong_Kong -> Madrid -> Mision: Destruir_la_Entidad - Madrid - Tiempo de viaje: 70
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 2107
