@@ -125,4 +125,4 @@ Tiempo total de viaje: 4070
 - La quinta misión a realizar implica ir de Tokio a Londres y el recorrido es Tokio -> New York -> Roma -> Londres (El camino más corto de Tokio a Londres pasó por New York y Roma), la misión es "Destruir_la_Entidad" en Londres, con un tiempo de viaje de 1700.
 - Todas las misiones se ejecutaron con éxito y el tiempo total de viaje fue de 4070.
 
-_Si usted o alguno de los miembros de su equipo es capturado o no logra completar la tarea, el cuerpo docente negará cualquier conocimiento de sus acciones, pero responderá las dudas que puedan surgir. Este repositorio no se autodestruirá en 5 segundos. Buenas suerte, BM47, el mundo depende de ti._
+_Si usted o alguno de los miembros de su equipo es capturado o no logra completar la tarea, el cuerpo docente negará cualquier conocimiento de sus acciones, pero responderá las dudas que puedan surgir. Este repositorio no se autodestruirá en 5 segundos. Buena suerte, BM47, el mundo depende de ti._
