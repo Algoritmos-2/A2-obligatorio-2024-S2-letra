@@ -20,6 +20,7 @@ Debe mostrar los `K` objetos más baratos en orden de precio ascendente. Cada `i
 
 - 1 <= N <= 10^5
 - 1 <= K <= 100
+- K siempre será menor o igual a la cantidad de objetos unicos
 - 1 <= id <= N
 - $O(N\ logN)_{pc}$
 
