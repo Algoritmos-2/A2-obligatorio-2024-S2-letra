@@ -1,0 +1,5 @@
+BE11, la mejor ruta buscar equipo, Desactivar la Entidad y punto de extraccion con un costo de 73
+La otra opcion tiene un costo de 83
+Paso 1: Buenos_Aires -> Kandahar -> Tokio -> Pretoria -> Buscar equipo
+Paso 2: Pretoria -> Port_Louis -> Salinas -> Marsella -> Tenerife -> Ginebra -> Desactivar la Entidad
+Paso 3: Ginebra -> Toulouse -> San_Ramon -> Bengasi -> Douala -> Ir a Punto de extraccion
