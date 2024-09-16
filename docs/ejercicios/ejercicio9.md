@@ -1,4 +1,4 @@
-# Ejercicio 9 - El mejor once
+# Ejercicio 9 - El dream team
 
 ## Descripción
 Eres el asistente del director técnico de un famoso club de fútbol que actualmente atraviesa dificultades económicas. El DT te ha encargado la tarea de analizar la calidad del plantel y realizar una selección tentativa del once inicial de cara a la próxima temporada.
