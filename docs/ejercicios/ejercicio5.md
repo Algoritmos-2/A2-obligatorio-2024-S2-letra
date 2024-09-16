@@ -2,23 +2,24 @@
 
 ## Descripción
 
-**-Bravo-Echo-1-1**: Has sido reclutado por el equipo de _Impossible Mission Force (IMF)_ para ayudar en su tarea de _Destruir la Entidad_, desde ahora te llamaremos _Bravo-Mike-4-7_. Después de los eventos de _Sentencia Mortal I_, el equipo debe reunir las piezas clave de la llave cruciforme que desbloquea el código fuente de _La Entidad_ pero, además, debe viajar a diferentes ciudades del mundo para completar varias misiones que permitirán completar la misión final "Destruir_La_Entidad" antes de que ésta cause un desastre global.
-IMF se enfrenta a la dificultad de tener que viajar rápidamente entre varias ciudades mientras ejecuta una serie de misiones que dependen unas de otras. Se sabe que La Entidad está infiltrada en varios aeropuertos y terminales por lo que solamente se puede seguir la ruta de conexiones segura que dispone el equipo. Esto hace que viajar de una ciudad a otra no sea tan sencillo. No es posible analizar el mejor orden de ejecución de las misiones que implique el menor tiempo de desplazamiento utilizando técnicas de programación porque la IA espera esta acción y detectaría los movimientos del equipo. Por lo anterior, se puede asegurar que si se determina el camino a la próxima misión más cercana una vez concluida la misión actual las conexiones son seguras y se obtiene un tiempo aceptable.
+Has sido reclutado por el equipo de _Impossible Mission Force (IMF)_ para ayudar en su tarea de _Desactivar la Entidad_.  
+Tienes la tarea de ayudar al equipo de IMF a completar una serie de misiones distribuidas en distintas ciudades. Estas misiones tienen un **orden específico de ejecución debido a dependencias entre ellas**. Además, **debes minimizar el tiempo de viaje entre ciudades**, eligiendo siempre la misión más cercana en términos de tiempo de desplazamiento desde la ubicación actual.
 
-Tu misión, en caso de que decidas aceptarla, es ayudar al equipo de la FMI a obtener el itinerario de la ejecución de las misiones de tal forma que se respete el **orden de dependencias** entre ellas y se **minimice el tiempo total de desplazamiento**. Para minimizar el desplazamiento, una vez concluida una misión, se deberá optar entre las siguientes misiones posibles (no ejecutadas y sin misiones previas pendientes) por aquella que tenga el menor tiempo de desplazamiento considerando la ubicación actual del equipo hasta la ciudad donde se debe ejecutar dicha misión.
+Tu misión, en caso de que decidas aceptarla, es determinar el orden de ejecución de las misiones respetando las dependencias y minimizando el tiempo total de viaje. Cada misión se encuentra en una ciudad diferente, y el equipo puede desplazarse entre ciudades a través de conexiones seguras con tiempos de viaje predefinidos.
+
+Para minimizar el desplazamiento, una vez concluida una misión, se deberá optar entre las siguientes misiones posibles (no ejecutadas y sin misiones previas pendientes) por aquella que tenga el menor tiempo de desplazamiento considerando la ubicación actual del equipo hasta la ciudad donde se debe ejecutar dicha misión.
 
 Condiciones del problema:
 
 1. **Dependencias entre misiones**
-    - Algunas misiones deben completarse antes que otras. Solamente se puede ejecutar una misión que no tenga misiones previas sin completar; y,
-    - No existe dependencia circular entre las misiones, en caso de encontrar alguna, el equipo de IMF le solicita que informe inmediatamente a su docente
+    - Algunas misiones dependen de que otras se completen antes de poder ser ejecutadas.
+    - Solo puedes ejecutar una misión que no tenga dependencias pendientes.
+    - No existe dependencia circular entre las misiones.
 2. **Ciudades y conexiones**
-    - Cada ciudad tiene un nombre único y se encuentra en un país específico;
-    - Las conexiones entre las ciudades son únicas (no existen dos conexiones directas entre el mismo par de ciudades) y tienen un tiempo de viaje asignado;
-    - Se puede considerar que, si el desplazamiento desde la ciudad _A_ hasta la ciudad _B_ tiene asociado el tiempo _X_, el desplazamiento de la ciudad _B_ a la _A_ también tiene asociado el tiempo _X_;
-    - No existen ciudades aisladas, es decir que no puedan ser alcanzadas desde otra ciudad; y,
-    - Siempre existe un camino entre 2 pares de ciudades cualesquiera a través de conexiones seguras; y,
-    - Si se produjera un empate en el tiempo de desplazamiento entre dos ciudades, se debe elegir la ciudad con el id más pequeño
+    - Cada ciudad tiene un nombre único y se encuentra conectada con otras ciudades mediante rutas con tiempos de viaje específicos.
+    - El tiempo de viaje entre dos ciudades es el mismo en ambos sentidos.
+    - No hay ciudades aisladas, siempre existe un camino entre dos ciudades cualesquiera.
+    - Si hay un empate en el tiempo de viaje entre dos misiones, elige la misión cuya ciudad tenga el identificador más pequeño.
 
 ## Entrada
 
@@ -85,7 +86,7 @@ Donde:
 2 Desactivar_servidor 2 4 5 0
 3 Obtener_informacion_confidencial 3 5 4 0
 4 Extraer_codigo_fuente 4 5 0
-5 Destruir_la_Entidad 5 0
+5 Desactivar_la_Entidad 5 0
 6 6
 1 Montevideo
 2 New_York
@@ -110,7 +111,7 @@ Punta_Del_Este -> Montevideo -> Mision: Recuperar_llave - Montevideo - Tiempo de
 Montevideo -> New_York -> Mision: Desactivar_servidor - New_York - Tiempo de viaje: 350
 New_York -> Roma -> Mision: Obtener_informacion_confidencial - Roma - Tiempo de viaje: 500
 Roma -> New_York -> Tokio -> Mision: Extraer_codigo_fuente - Tokio - Tiempo de viaje: 1400
-Tokio -> New_York -> Roma -> Londres -> Mision: Destruir_la_Entidad - Londres - Tiempo de viaje: 1700
+Tokio -> New_York -> Roma -> Londres -> Mision: Desactivar_la_Entidad - Londres - Tiempo de viaje: 1700
 Misiones ejecutadas con exito.
 Tiempo total de viaje: 4070
 ```
@@ -122,7 +123,5 @@ Tiempo total de viaje: 4070
 - La segunda misión a realizar implica ir de Montevideo a New York y el recorrido no tiene ciudades intermedias, la misión es "Desactivar_servidor" en New York, con un tiempo de viaje de 350.
 - La tercera misión a realizar implica ir de New York a Roma y el recorrido no tiene ciudades intermedias, la misión es "Obtener_informacion_confidencial" en Roma, con un tiempo de viaje de 500.
 - La cuarta misión a realizar implica ir de Roma a Tokio y el recorrido es Roma -> New York -> Tokio (El camino más corto de Roma a Tokio pasó por New York), la misión es "Extraer_codigo_fuente" en Tokio, con un tiempo de viaje de 1400.
-- La quinta misión a realizar implica ir de Tokio a Londres y el recorrido es Tokio -> New York -> Roma -> Londres (El camino más corto de Tokio a Londres pasó por New York y Roma), la misión es "Destruir_la_Entidad" en Londres, con un tiempo de viaje de 1700.
+- La quinta misión a realizar implica ir de Tokio a Londres y el recorrido es Tokio -> New York -> Roma -> Londres (El camino más corto de Tokio a Londres pasó por New York y Roma), la misión es "Desactivar_la_Entidad" en Londres, con un tiempo de viaje de 1700.
 - Todas las misiones se ejecutaron con éxito y el tiempo total de viaje fue de 4070.
-
-_Si usted o alguno de los miembros de su equipo es capturado o no logra completar la tarea, el cuerpo docente negará cualquier conocimiento de sus acciones, pero responderá las dudas que puedan surgir. Este repositorio no se autodestruirá en 5 segundos. Buena suerte, BM47, el mundo depende de ti._

@@ -3,7 +3,7 @@
 2 Desactivar_servidor 2 4 5 0
 3 Obtener_informacion_confidencial 3 5 4 0
 4 Extraer_codigo_fuente 4 5 0
-5 Destruir_la_Entidad 5 0
+5 Desactivar_la_Entidad 5 0
 6 6
 1 Montevideo
 2 New_York
