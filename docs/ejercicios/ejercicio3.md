@@ -48,4 +48,4 @@ Debe mostrar los `K` objetos más baratos en orden de precio ascendente. Cada `i
 
 ### Explicación
 
-El objeto 3 es el más barato, la opción de $2. Luego viene el objeto 2 por $5 y finalmente el objeto 1 por $10.
+El objeto 3 es el más barato, la opción de 2 pesos. Luego viene el objeto 2 por 5 pesos y finalmente el objeto 1 por 10 pesos.
