@@ -34,10 +34,10 @@ OperacionO
 La salida debe ser una lista de pedidos que faltan por entregar, ordenados de más importante a menos importante.
 
 ```plaintext
-<id> <para-llevar> <items>
-<id> <para-llevar> <items>
+<id> <prioridad> <para-llevar> <items>
+<id> <prioridad> <para-llevar> <items>
 ...
-<id> <para-llevar> <items>
+<id> <prioridad> <para-llevar> <items>
 ```
 
 ## Restricciones
@@ -67,6 +67,6 @@ E 3
 ### Output
 
 ```plaintext
-2 true ORTastySignature_PapasChicas
-4 false BigORT
+2 2 true ORTastySignature_PapasChicas
+4 2 false BigORT
 ```
