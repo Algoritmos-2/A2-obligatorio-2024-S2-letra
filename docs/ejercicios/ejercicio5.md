@@ -37,7 +37,7 @@ La entrada se recibe con el siguiente formato:
 - Luego se reciben `C` líneas con el siguiente formato, cada valor separado por un espacio:
   - `idCiudad`, entero; y,
   - `Nombre_Ciudad_Sin_Espacios`, string
-- Por último, se reciben una cantidad arbitraria de líneas que representan conexiones seguras entre las ciudades con la siguiente composición, cada valor separado por un espacio:
+- `E` una cantidad de líneas que representan conexiones seguras entre las ciudades con la siguiente composición, cada valor separado por un espacio:
   - `idCiudadOrigen`, entero;
   - `idCiudadDestino`, entero; y,
   - `tiempoDesplazamiento`, entero
@@ -72,9 +72,9 @@ Donde:
   - no existe dependencia circular entre misiones;
   - la cantidad de dependencias entre misiones es aproximadamente el 30% de las dependencias posibles;
   - la cantidad de conexiones entre las ciudades es arbitraria en cada entrada, pero se puede asumir que representan aproximadamente el 30% de las conexiones posibles;
-- Orden temporal: `O((M + Dep) * M * ((C + Con) * log C))`, donde:
+- Orden temporal: `O((M + Dep) + M * ((C + E) * log C))`, donde:
   - `Dep` es la cantidad de dependencias entre misiones;
-  - `Con` es la cantidad de conexiones entre ciudades;
+  - `E` es la cantidad de conexiones entre ciudades;
 
 ## Ejemplo
 
@@ -94,6 +94,7 @@ Donde:
 4 Tokio
 5 Londres
 6 Punta_Del_Este
+7
 1 2 350
 1 3 600
 2 4 900
