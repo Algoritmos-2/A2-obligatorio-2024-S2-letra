@@ -1,0 +1,5 @@
+BE11, la mejor ruta buscar equipo, Desactivar la Entidad y punto de extraccion con un costo de 152
+La otra opcion tiene un costo de 225
+Paso 1: Caracas -> Londres -> Paris -> Berlin -> Madrid -> Buscar equipo
+Paso 2: Madrid -> Berlin -> Copenhague -> Helsinki -> Seul -> Desactivar la Entidad
+Paso 3: Seul -> Santiago_de_Chile -> Ir a Punto de extraccion

@@ -1,0 +1,5 @@
+BE11, la mejor ruta buscar equipo, Desactivar la Entidad y punto de extraccion con un costo de 57
+La otra opcion tiene un costo de 97
+Paso 1: Amsterdam -> Atenas -> Buscar equipo
+Paso 2: Atenas -> Bratislava -> Ginebra -> Sidney -> Teheran -> Tokio -> Desactivar la Entidad
+Paso 3: Tokio -> Teheran -> Sidney -> Astana -> Ir a Punto de extraccion
