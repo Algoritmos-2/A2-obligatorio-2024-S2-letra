@@ -1,0 +1,23 @@
+Ciudad inicial: Atenas
+Atenas -> Toronto -> Sidney -> Vancouver -> Ciudad_de_Mexico -> Salto -> Caracas -> Bruselas -> Mision: Liberar_informacion - Bruselas - Tiempo de viaje: 96
+Bruselas -> Caracas -> Salto -> Ciudad_del_Cabo -> Johannesburgo -> Dubai -> Mision: Infiltrar_servidor_secreto - Dubai - Tiempo de viaje: 122
+Dubai -> Johannesburgo -> Ciudad_del_Cabo -> Tokio -> Sidney -> Mision: Recuperar_llave - Sidney - Tiempo de viaje: 95
+Sidney -> Bogota -> Melbourne -> Los_Angeles -> Mision: Asegurar_artefacto - Los_Angeles - Tiempo de viaje: 39
+Los_Angeles -> Mision: Localizar_articulo_roto - Los_Angeles - Tiempo de viaje: 0
+Los_Angeles -> Beijing -> Barcelona -> Mision: Detener_fuga_de_informacion - Barcelona - Tiempo de viaje: 42
+Barcelona -> Sidney -> Toronto -> Rivera -> Mision: Infiltrarse_base_enemiga - Rivera - Tiempo de viaje: 46
+Rivera -> Toronto -> Sidney -> Barcelona -> Beijing -> Helsinki -> Paysandu -> Abu_Dhabi -> Mision: Infiltrarse_base_enemiga - Abu_Dhabi - Tiempo de viaje: 61
+Abu_Dhabi -> Paysandu -> Lima -> Varsovia -> Mision: Liberar_informacion - Varsovia - Tiempo de viaje: 30
+Varsovia -> Lima -> Paysandu -> Helsinki -> Beijing -> Barcelona -> Sidney -> Toronto -> Mision: Interceptar_mensaje_enemigo - Toronto - Tiempo de viaje: 67
+Toronto -> Melbourne -> Los_Angeles -> Mision: Infiltrar_red_de_mandos - Los_Angeles - Tiempo de viaje: 39
+Los_Angeles -> Beijing -> Helsinki -> Mision: Desmantelar_red_cibernetica - Helsinki - Tiempo de viaje: 44
+Helsinki -> Paysandu -> Copenhague -> Canelones -> Mision: Neutralizar_vehiculo - Canelones - Tiempo de viaje: 68
+Canelones -> Rivera -> Bogota -> Melbourne -> Lisboa -> Mision: Identificar_agente_hostil - Lisboa - Tiempo de viaje: 79
+Lisboa -> Lima -> Singapur -> Mision: Recolectar_evidencias - Singapur - Tiempo de viaje: 93
+Singapur -> Maldonado -> Nueva_York -> Bogota -> Santiago_de_Chile -> Mision: Encriptar_datos_confidenciales - Santiago_de_Chile - Tiempo de viaje: 99
+Santiago_de_Chile -> Quito -> Mision: Detener_ataque_cibernetico - Quito - Tiempo de viaje: 29
+Quito -> Santiago_de_Chile -> Bogota -> Nueva_York -> Tokio -> Moscu -> Hong_Kong -> Mision: Sabotear_instalacion - Hong_Kong - Tiempo de viaje: 78
+Hong_Kong -> Amsterdam -> Mision: Acceder_red_inteligencia - Amsterdam - Tiempo de viaje: 32
+Amsterdam -> Toronto -> Sidney -> Barcelona -> Beijing -> Helsinki -> Paysandu -> Colonia -> Mision: Desactivar_la_Entidad - Colonia - Tiempo de viaje: 80
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 1239

@@ -1,0 +1,13 @@
+Ciudad inicial: Amsterdam
+Amsterdam -> Buenos_Aires -> San_Pablo -> Paris -> Mision: Obtener_coordenadas_clave - Paris - Tiempo de viaje: 23
+Paris -> San_Pablo -> Beijing -> Johannesburgo -> Ciudad_del_Cabo -> Nueva_York -> Mision: Neutralizar_amenaza - Nueva_York - Tiempo de viaje: 69
+Nueva_York -> Durazno -> Paysandu -> Maldonado -> Mision: Recuperar_llave - Maldonado - Tiempo de viaje: 56
+Maldonado -> San_Pablo -> Buenos_Aires -> Mision: Detener_ataque_cibernetico - Buenos_Aires - Tiempo de viaje: 53
+Buenos_Aires -> San_Pablo -> Beijing -> Estocolmo -> Montevideo -> Mision: Transportar_material_clasificado - Montevideo - Tiempo de viaje: 88
+Montevideo -> Mision: Desactivar_servidor - Montevideo - Tiempo de viaje: 0
+Montevideo -> El_Cairo -> Copenhague -> Mision: Identificar_agente_hostil - Copenhague - Tiempo de viaje: 88
+Copenhague -> El_Cairo -> Rivera -> Mision: Proteger_informante - Rivera - Tiempo de viaje: 38
+Rivera -> Beijing -> Johannesburgo -> Los_Angeles -> Mision: Anular_defensas_enemigas - Los_Angeles - Tiempo de viaje: 80
+Los_Angeles -> Bangkok -> Copenhague -> El_Cairo -> Mision: Desactivar_la_Entidad - El_Cairo - Tiempo de viaje: 69
+Misiones ejecutadas con exito.
+Tiempo total de viaje: 564
