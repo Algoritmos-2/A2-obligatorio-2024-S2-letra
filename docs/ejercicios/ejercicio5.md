@@ -17,9 +17,9 @@ Condiciones del problema:
     - No existe dependencia circular entre las misiones.
 2. **Ciudades y conexiones**
     - Cada ciudad tiene un nombre único y se encuentra conectada con otras ciudades mediante rutas con tiempos de viaje específicos.
-    - El tiempo de viaje entre dos ciudades es el mismo en ambos sentidos.
-    - No hay ciudades aisladas, siempre existe un camino entre dos ciudades cualesquiera.
-    - Si hay un empate en el tiempo de viaje entre dos misiones, elige la misión cuya ciudad tenga el identificador más pequeño.
+    - El tiempo de viaje entre dos ciudades es el mismo en ambos sentidos.
+    - No hay ciudades aisladas, siempre existe un camino entre dos ciudades cualesquiera.
+    - Si hay un empate en el tiempo de viaje entre dos misiones, elige la misión cuya ciudad tenga el identificador más pequeño.
 
 ## Entrada
 
