@@ -9,7 +9,7 @@ En la ejecución de la última misión, Morfeo está afectado y no puede decidir
 - **C** - Ir al punto de extracción
 
 El problema radica en que Morfeo no está seguro si primero debe desactivar la entidad o reunirse con el equipo.
-El equipo dispone de conexiones seguras entre ciudades que utiliza para desplazarse entre ellas, pero, luego de utilzar una, la Entidad aumenta la cantidad de secuaces que hay en ella y se vuelve más insegura, por lo que el costo de utilizarla es 2 veces mayor.
+El equipo dispone de conexiones seguras entre ciudades que utiliza para desplazarse entre ellas, pero, luego de utilizar una, la Entidad aumenta la cantidad de secuaces que hay en ella y se vuelve más insegura, por lo que el costo de utilizarla es 2 veces mayor.
 
 Puntualmente, tu algoritmo debe determinar el orden en que se deben realizar las acciones para que el costo total sea el menor posible. Es decir, si se debe primero desactivar la entidad o reunirse con el equipo. En caso de que el costo sea el mismo, se debe desactivar la entidad.
 
