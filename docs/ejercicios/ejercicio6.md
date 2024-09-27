@@ -53,7 +53,7 @@ Donde:
 - `5 <= C <= 300`
 - `1 <= S, E, T, P <= C`
 - `1 <= Costo <= 100`, esta restricción representa el costo inicial de una conexión segura, luego de utilizarla el costo se duplica y puede superar el valor 100
-- Orden temporal: `C * ((C + Con) * log C))`, donde:
+- Orden temporal: `(C + Con) * log C)`, donde:
   - `Con` es la cantidad de conexiones entre ciudades;
 
 ## Ejemplo
