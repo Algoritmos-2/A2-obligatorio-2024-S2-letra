@@ -65,7 +65,6 @@ Donde:
 - Cantidad de misiones a realizar: `5 <= M <= 200`;
 - Identificador de la misión: `1 <= idMision <= 200`;
 - Identificador de la cuidad: `1 <= idCiudad <= 50`;
-- Cantidad de ciudades: `C = 50` (las ciudades siempre son 50);
 - Ciudad origen: `1 <= O <= 50` (puede ser una ciudad asignada a una misión o no);
 - Tiempo de desplazamiento entre ciudades: `1 <= Td <= 1000`;
 - Se puede asumir que:
@@ -114,7 +113,7 @@ New_York -> Roma -> Mision: Obtener_informacion_confidencial - Roma - Tiempo de 
 Roma -> New_York -> Tokio -> Mision: Extraer_codigo_fuente - Tokio - Tiempo de viaje: 1400
 Tokio -> New_York -> Roma -> Londres -> Mision: Desactivar_la_Entidad - Londres - Tiempo de viaje: 1700
 Misiones ejecutadas con exito.
-Tiempo total de viaje: 4070
+Tiempo total de viaje: 3960
 ```
 
 ### Explicación
