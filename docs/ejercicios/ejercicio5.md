@@ -125,4 +125,4 @@ Tiempo total de viaje: 3960
 - La tercera misión a realizar implica ir de New York a Roma y el recorrido no tiene ciudades intermedias, la misión es "Obtener_informacion_confidencial" en Roma, con un tiempo de viaje de 500.
 - La cuarta misión a realizar implica ir de Roma a Tokio y el recorrido es Roma -> New York -> Tokio (El camino más corto de Roma a Tokio pasó por New York), la misión es "Extraer_codigo_fuente" en Tokio, con un tiempo de viaje de 1400.
 - La quinta misión a realizar implica ir de Tokio a Londres y el recorrido es Tokio -> New York -> Roma -> Londres (El camino más corto de Tokio a Londres pasó por New York y Roma), la misión es "Desactivar_la_Entidad" en Londres, con un tiempo de viaje de 1700.
-- Todas las misiones se ejecutaron con éxito y el tiempo total de viaje fue de 4070.
+- Todas las misiones se ejecutaron con éxito y el tiempo total de viaje fue de 3960.
