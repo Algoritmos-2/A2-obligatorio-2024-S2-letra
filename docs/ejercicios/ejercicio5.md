@@ -5,9 +5,9 @@
 Has sido reclutado por el equipo de _Impossible Mission Force (IMF)_ para ayudar en su tarea de _Desactivar la Entidad_.  
 Tienes la tarea de ayudar al equipo de IMF a completar una serie de misiones distribuidas en distintas ciudades. Estas misiones tienen un **orden específico de ejecución debido a dependencias entre ellas**. Además, **debes minimizar el tiempo de viaje entre ciudades**, eligiendo siempre la misión más cercana en términos de tiempo de desplazamiento desde la ubicación actual.
 
-Tu misión, en caso de que decidas aceptarla, es determinar el orden de ejecución de las misiones respetando las dependencias y minimizando el tiempo total de viaje. Cada misión se encuentra en una ciudad diferente, y el equipo puede desplazarse entre ciudades a través de conexiones seguras con tiempos de viaje predefinidos.
+Tu misión, en caso de que decidas aceptarla, es determinar el orden de ejecución de las misiones respetando las dependencias y minimizando el tiempo total de viaje. El equipo puede desplazarse entre ciudades a través de conexiones seguras con tiempos de viaje predefinidos.
 
-Para minimizar el desplazamiento, una vez concluida una misión, se deberá optar entre las siguientes misiones posibles (no ejecutadas y sin misiones previas pendientes) por aquella que tenga el menor tiempo de desplazamiento considerando la ubicación actual del equipo hasta la ciudad donde se debe ejecutar dicha misión.
+Para minimizar el desplazamiento, una vez concluida una misión, se deberá optar entre las siguientes misiones posibles (no ejecutadas y sin misiones previas pendientes) por aquella que tenga el menor tiempo de desplazamiento considerando la ubicación actual del equipo hasta la ciudad donde se debe ejecutar dicha misión, de haber dos con el mismo tiempo de desaplazamiento se elige la que tiene idMision más bajo.
 
 Condiciones del problema:
 
@@ -65,6 +65,7 @@ Donde:
 - Cantidad de misiones a realizar: `5 <= M <= 200`;
 - Identificador de la misión: `1 <= idMision <= 200`;
 - Identificador de la cuidad: `1 <= idCiudad <= 50`;
+- Cantidad de ciudades: `1 <= C <= 50` (hay como máximo 50 ciudades);
 - Ciudad origen: `1 <= O <= 50` (puede ser una ciudad asignada a una misión o no);
 - Tiempo de desplazamiento entre ciudades: `1 <= Td <= 1000`;
 - Se puede asumir que:
