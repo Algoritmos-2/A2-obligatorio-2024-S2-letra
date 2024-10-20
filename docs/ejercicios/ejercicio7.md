@@ -32,7 +32,7 @@ El programa debe devolver:
 ### Restricciones
 
 - $1 \leq N \leq 10^6$
-- $1 \leq M \leq 10^4$
+- $1 \leq E \leq 10^4$
 - La duración de cada canción está entre 1 y $10^9$.
 - Es posible que algunos estudiantes no necesiten escuchar canciones si se logra la asignación óptima.
 - Orden temporal de ejecución: $O(\log(T) \dot N )$, siendo $T$ la suma de las duraciones de las canciones.
