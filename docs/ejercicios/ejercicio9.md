@@ -14,7 +14,7 @@ Aprovechando tus conocimientos adquiridos en la asignatura de Estructuras de Dat
 
 ### Valoración de un jugador
 
-Definimos la valoración de un jugador como el promedio de sus atributos (ritmo, tiro, pase, regate, defensa y físico). Al mismo tiempo, se considera la condición actual del jugador, de forma que su confianza y forma física también afectan a su valoración:
+Definimos la valoración de un jugador como el promedio (entero) de sus atributos (ritmo, tiro, pase, regate, defensa y físico). Al mismo tiempo, se considera la condición actual del jugador, de forma que su confianza y forma física también afectan a su valoración:
 
 #### Confianza
 Baja -> resta 5 puntos de valoración. \
