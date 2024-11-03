@@ -18,7 +18,7 @@
 ## Input:
 - **int N:** Tamaño de la cuadrícula N×N.
 - **int F:** Cantidad de flores diferentes.
-- F tuplas (Color, fila en la que debe ser plantada) siendo -1 que no tiene restricción de posición.
+- F tuplas (Color, fila en la que debe ser plantada en base 0) siendo -1 que no tiene restricción de posición.
 
 
 ## Output:
