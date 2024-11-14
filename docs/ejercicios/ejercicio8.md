@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Tienes un conjunto de `n` ciudades, cada una representada como un punto en un plano 2D, con coordenadas (x, y) y una población asociada. Se desea construir un centro de comunicación entre dos de estas ciudades. El objetivo es encontrar el par de ciudades entre las cuales se debe construir este centro, de manera que la suma de las distancias desde el centro hacia todas las ciudades, ponderada por sus poblaciones, sea mínima.
+Tienes un conjunto de `n` ciudades, cada una representada como un punto en un plano 2D, con coordenadas (x, y) y una población asociada. Se desea construir un centro de comunicación entre dos de estas ciudades. El objetivo es encontrar el par de ciudades entre las cuales se debe construir este centro, de manera que la distancia entre ambas ciudades sea minima.
 
 En este problema, la "distancia" no es simplemente la distancia euclidiana, sino una "distancia efectiva" entre dos ciudades modificada por la diferencia de población entre las ciudades. La fórmula de la distancia efectiva entre dos ciudades es la siguiente:
 
