@@ -94,7 +94,7 @@ Donde:
 4 Tokio
 5 Londres
 6 Punta_Del_Este
-7
+14
 1 2 350
 1 3 600
 2 4 900
@@ -102,6 +102,13 @@ Donde:
 3 5 300
 6 1 10
 6 3 1000
+2 1 350
+3 1 600
+4 2 900
+3 2 500
+5 3 300
+1 6 10
+3 6 1000
 ```
 
 ### Output
@@ -125,4 +132,4 @@ Tiempo total de viaje: 3960
 - La tercera misión a realizar implica ir de New York a Roma y el recorrido no tiene ciudades intermedias, la misión es "Obtener_informacion_confidencial" en Roma, con un tiempo de viaje de 500.
 - La cuarta misión a realizar implica ir de Roma a Tokio y el recorrido es Roma -> New York -> Tokio (El camino más corto de Roma a Tokio pasó por New York), la misión es "Extraer_codigo_fuente" en Tokio, con un tiempo de viaje de 1400.
 - La quinta misión a realizar implica ir de Tokio a Londres y el recorrido es Tokio -> New York -> Roma -> Londres (El camino más corto de Tokio a Londres pasó por New York y Roma), la misión es "Desactivar_la_Entidad" en Londres, con un tiempo de viaje de 1700.
-- Todas las misiones se ejecutaron con éxito y el tiempo total de viaje fue de 4070.
+- Todas las misiones se ejecutaron con éxito y el tiempo total de viaje fue de 3960.
